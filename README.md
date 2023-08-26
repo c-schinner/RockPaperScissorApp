@@ -9,20 +9,31 @@ The computer will randomly choose one of the options: Rock, Paper, or Scissors.
 The program will then determine the winner based on your choice and the computer's choice.
 
 # Winning Rules
-Rock beats Scissors
-Scissors beats Paper
+
+Rock beats Scissors,
+
+Scissors beats Paper,
+
 Paper beats Rock
 
-# Example Gameplay
-We are going to play Rock, Paper, Scissors. Have fun!
-Type "0" for Rock, "1" for Paper, and "2" for Scissors
-1
-You TIED, Paper doesn't beat Paper.
 
-We are going to play Rock, Paper, Scissors. Have fun!
-Type "0" for Rock, "1" for Paper, and "2" for Scissors
-2
-You WIN, Scissors beats Paper.
+# Example Gameplay
+
+    We are going to play Rock, Paper, Scissors. Have fun!
+
+    Type "0" for Rock, "1" for Paper, and "2" for Scissors
+
+    1
+
+    You TIED, Paper doesn't beat Paper.
+
+    We are going to play Rock, Paper, Scissors. Have fun!
+
+    Type "0" for Rock, "1" for Paper, and "2" for Scissors
+
+    2
+
+    You WIN, Scissors beats Paper.
 
 # Tips
 Pay attention to the outcomes based on the rules of the game to make the right choice.
