@@ -8,15 +8,6 @@ Enter the corresponding number to select your choice: 0 for Rock, 1 for Paper, a
 The computer will randomly choose one of the options: Rock, Paper, or Scissors.
 The program will then determine the winner based on your choice and the computer's choice.
 
-# Winning Rules
-
-Rock beats Scissors,
-
-Scissors beats Paper,
-
-Paper beats Rock
-
-
 # Example Gameplay
 
     We are going to play Rock, Paper, Scissors. Have fun!
