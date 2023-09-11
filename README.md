@@ -3,9 +3,13 @@ Welcome to the Rock/Paper/Scissors Game, a simple command-line game where you ca
 
 # How to Play
 Run the program using a Python interpreter (Python 3 recommended).
+
 The game will display a welcome message, and you'll be prompted to make a choice: "Rock," "Paper," or "Scissors."
+
 Enter the corresponding number to select your choice: 0 for Rock, 1 for Paper, and 2 for Scissors.
+
 The computer will randomly choose one of the options: Rock, Paper, or Scissors.
+
 The program will then determine the winner based on your choice and the computer's choice.
 
 # Example Gameplay
